@@ -5,14 +5,17 @@ A list of deep-learning blogs/papers that I've read and found interesting!
 ### Currently Reading
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
-### LSTM
+### General Concepts
+* [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+* [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+
+### Recurrent Neural Networks
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-### Q-Learning
+### Reinforcement Learning
 * [A Painless Q-Learning Tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
-
-### Deep Q-Learning
+* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 * [Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks](https://arxiv.org/abs/1612.03653)
@@ -32,6 +35,8 @@ A list of deep-learning blogs/papers that I've read and found interesting!
 * [Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm](https://arxiv.org/abs/1708.00524)
 
 ### Computer Vision
+* [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
+* [What a Deep Neural Network thinks about your #selfie](http://karpathy.github.io/2015/10/25/selfie/)
 * [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
@@ -46,3 +51,6 @@ A list of deep-learning blogs/papers that I've read and found interesting!
 * [Label-Free Supervision of Neural Networks with Physics and Domain Knowledge](https://arxiv.org/abs/1609.05566)
 * [Learning by Association A versatile semi-supervised training method for neural networks](https://arxiv.org/abs/1706.00909)
 * [Better Text Understanding Through Image-To-Text Transfer](https://arxiv.org/abs/1705.08386)
+
+### Adversarial training
+* [Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/)
