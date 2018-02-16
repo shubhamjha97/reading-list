@@ -19,6 +19,7 @@ A list of deep-learning blogs/papers that I've read and found interesting!
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 * [Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks](https://arxiv.org/abs/1612.03653)
+* [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236.pdf)
 
 ### Robotics
 * [DeepFly: Towards Complete Autonomous Navigation of MAVs with Monocular Camera](https://dl.acm.org/citation.cfm?id=3010047&dl=ACM&coll=DL)
