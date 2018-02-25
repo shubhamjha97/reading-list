@@ -3,7 +3,7 @@
 A list of deep-learning blogs/papers that I've read and found interesting!
 
 ### Currently Reading
-
+Looking for a good paper :)
 
 ### General Concepts
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
