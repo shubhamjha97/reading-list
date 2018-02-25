@@ -3,7 +3,7 @@
 A list of deep-learning blogs/papers that I've read and found interesting!
 
 ### Currently Reading
-* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+
 
 ### General Concepts
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
@@ -47,6 +47,7 @@ A list of deep-learning blogs/papers that I've read and found interesting!
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485)
 * [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://jamanetwork.com/journals/JAMA/articlepdf/2588763/joi160132supp1_prod.pdf)
 * [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/abs/1409.1556)
+* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ### Semi-Supervised Learning
 * [Label-Free Supervision of Neural Networks with Physics and Domain Knowledge](https://arxiv.org/abs/1609.05566)
