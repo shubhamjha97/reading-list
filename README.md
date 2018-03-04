@@ -34,6 +34,8 @@ Looking for a good paper :)
 * [SwissCheese at SemEval-2016 Task 4: Sentiment Classification Using an Ensemble of Convolutional Neural Networks with Distant Supervision](http://www.aclweb.org/anthology/S16-1173)
 * [SentiHood: Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods](https://arxiv.org/abs/1610.03771)
 * [Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm](https://arxiv.org/abs/1708.00524)
+* [Word2Vec using Character n-grams](https://web.stanford.edu/class/cs224n/reports/2761021.pdf)
+* [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626)
 
 ### Computer Vision
 * [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
