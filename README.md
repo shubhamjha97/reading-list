@@ -6,6 +6,7 @@ A list of deep-learning blogs/papers that I've read and found interesting!
 Looking for a good paper :)
 
 ### General Concepts
+* [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
