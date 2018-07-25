@@ -20,6 +20,7 @@ Looking for a good paper :)
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 * [Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks](https://arxiv.org/abs/1612.03653)
 * [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236.pdf)
+* [Deep Q Network vs Policy Gradients - An Experiment on VizDoom with Keras](https://flyyufelix.github.io/2017/10/12/dqn-vs-pg.html)
 
 ### Robotics
 * [DeepFly: Towards Complete Autonomous Navigation of MAVs with Monocular Camera](https://dl.acm.org/citation.cfm?id=3010047&dl=ACM&coll=DL)
